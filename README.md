@@ -13,7 +13,7 @@ The trained models, experiment dashboards, and the compiled W&B results table ar
 
 ### Google Drive (Models & Excel)
 All files are in the same folder:
-- **Trained Model (.pth)**
+- **Trained Models (.pth)**
 - **Wandb Table (cGAN cDCGAN).xlsx**
 
 [Access Google Drive Folder](https://drive.google.com/drive/folders/1KO4iVEWiyViDP9GXIWt1SSZ2Cyy2f-fy?usp=drive_link)
